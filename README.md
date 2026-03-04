@@ -66,7 +66,7 @@ The analysis was implemented using **Python in Google Colab**, focusing on uncov
 - **Correlation heatmap:** Examined relationships among numerical variables  
 
 ### 4️⃣ Predictive Analytics
-- Salary trend analysis using company founding year
+- Salary trend analysis using the company's founding year
 - **Linear Regression:** Predicting average salary
 - **K-Means Clustering:** Grouping jobs by salary and company rating
 - **Classification Model:** Predicting seniority using salary, rating, and company age
